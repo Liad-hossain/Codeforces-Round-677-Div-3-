@@ -1,4 +1,4 @@
-//Author: Liad
+//Author:MD. Liad Hossain
 //KUET ECE 2k18
 
 #include <bits/stdc++.h>
