@@ -1,3 +1,6 @@
+//Author:MD. Liad Hossain
+//KUET ECE 2K18
+
 #include <bits/stdc++.h>
 //using namespace std;
 //#include<ext/pb_ds/assoc_container.hpp>
